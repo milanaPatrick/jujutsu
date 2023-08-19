@@ -1,0 +1,99 @@
+* {
+    font-family: 'Roboto Slab', serif;
+
+}
+h1{
+    text-align: center;
+    font-weight: 50px;
+    font-size: 70px;
+    color: #333;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0e90b8;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #e2357d;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border: 2px solid black;
+    
+    padding: 20px;
+}
+
+h1, h2 {
+    margin-bottom: 15px;
+}
+
+
+.banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    bor
+}
+
+
+.content {
+    overflow: auto;
+    margin-bottom: 20px;
+}
+
+.article {
+    float: left;
+    width: 65%;
+    padding: 15px;
+    
+}
+
+.sidebar {
+    float: right;
+    width: 35%;
+    padding: 15px;
+    
+}
+
+
+.footer {
+    overflow: auto;
+    background-color: #333;
+    color: #fff;
+}
+
+.footer-column {
+    float: left;
+    width: 32.33%;
+    padding: 3px;
+    border-right: 1px solid #555;
+    padding-left: 7px;
+    margin-bottom: 0 auto;
+}
+
+.footer-column:last-child {
+    border-right: none;
+    
+    
+}
+
+.footer a {
+    color: #f7c80c;
+    text-decoration: none;
+
+}
+
+.clearfix {
+    clear: both;
+}
+
+.sidebar h2 ul li{
+    margin:0 auto;
+}
+
+
+
+
